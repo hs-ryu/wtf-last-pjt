@@ -1,0 +1,112 @@
+[
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 1,
+    "fields": {
+        "movieNm": "분노의 질주: 더 얼티메이트",
+        "openDt": "2021-05-19",
+        "audiAcc": "1264867",
+        "image_path": "https://t1.daumcdn.net/movie/aa6aaf313fb192e6f77f5bd4490d5e127d707240",
+        "userRating": 7.9
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 2,
+    "fields": {
+        "movieNm": "극장판 귀멸의 칼날: 무한열차편",
+        "openDt": "2021-01-27",
+        "audiAcc": "2050185",
+        "image_path": "https://t1.daumcdn.net/movie/f2a2f4499800518cf7b3eb999bd83c4e1f2da89b",
+        "userRating": 9.29
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 3,
+    "fields": {
+        "movieNm": "스파이럴",
+        "openDt": "2021-05-12",
+        "audiAcc": "126494",
+        "image_path": "https://t1.daumcdn.net/movie/5f59310914486bebd09766547019967f3e43bd39",
+        "userRating": 6.63
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 4,
+    "fields": {
+        "movieNm": "더 스파이",
+        "openDt": "2021-04-28",
+        "audiAcc": "305791",
+        "image_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84432/84432_1000.jpg",
+        "userRating": 8.54
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 5,
+    "fields": {
+        "movieNm": "도라에몽: 스탠바이미 2",
+        "openDt": "2021-05-19",
+        "audiAcc": "61691",
+        "image_path": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84553/84553_1000.jpg",
+        "userRating": 9.02
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 6,
+    "fields": {
+        "movieNm": "프로페서 앤 매드맨",
+        "openDt": "2021-06-02",
+        "audiAcc": "1053",
+        "image_path": "https://t1.daumcdn.net/movie/8aefd73b1a73764247d6cc7792c5416aa01071fc",
+        "userRating": 7.67
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 7,
+    "fields": {
+        "movieNm": "비와 당신의 이야기",
+        "openDt": "2021-04-28",
+        "audiAcc": "367307",
+        "image_path": "https://t1.daumcdn.net/movie/caf611172ce6313c2122695ca43f4a81c137eb76",
+        "userRating": 6.71
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 8,
+    "fields": {
+        "movieNm": "혼자 사는 사람들",
+        "openDt": "2021-05-19",
+        "audiAcc": "8979",
+        "image_path": "https://t1.daumcdn.net/movie/4f4d94f1d31f96c8a458dc5a4b52fcdcb3a15c67",
+        "userRating": 8.74
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 9,
+    "fields": {
+        "movieNm": "미나리",
+        "openDt": "2021-03-03",
+        "audiAcc": "1126788",
+        "image_path": "https://t1.daumcdn.net/movie/c23137b8c082f66df707f21c9884ca38a1903efa",
+        "userRating": 7.68
+    }
+},
+{
+    "model": "movies.nowshowingmovie",
+    "pk": 10,
+    "fields": {
+        "movieNm": "학교 가는 길",
+        "openDt": "2021-05-05",
+        "audiAcc": "14280",
+        "image_path": "https://t1.daumcdn.net/movie/d1497bec0b89201b43f1929f77dea53202df148d",
+        "userRating": 9.62
+    }
+}
+]
